@@ -3,3 +3,5 @@ Git is free software
 a little change
 
 insert one line for github
+
+change the branch to master
